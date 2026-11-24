@@ -1,0 +1,7 @@
+﻿TimeGenerated,EventOriginalType,EventMessage,SrcGeoCity
+"Oct 28, 2026 8:11:34 AM",user.session.start,User login to Okta,Moscow
+"Oct 28, 2026 8:11:34 AM",user.account.privilege.grant,Grant user super admin role,Moscow
+"Oct 28, 2026 8:11:34 AM",system.api_token.create,Create API token,Moscow
+"Oct 28, 2026 8:11:34 AM",user.mfa.factor.deactivate,Deactivate SMS factor for user Priya Sharma,Moscow
+"Oct 28, 2026 8:11:34 AM",user.mfa.factor.reset_all,Reset all MFA factors for user CEO PKWork,Moscow
+"Oct 28, 2026 8:11:34 AM",user.mfa.factor.update,Enroll new TOTP factor for attacker-controlled device,Moscow

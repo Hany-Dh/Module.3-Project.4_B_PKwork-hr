@@ -1,0 +1,16 @@
+﻿$table,count_
+AlertEvidence,15
+AlertInfo,2
+DeviceTvmSoftwareVulnerabilitiesKB,3
+ExposureGraphNodes,8
+AWSCloudTrail,25
+CrowdStrikeHosts,1
+MailGuard365_Threats_CL,3
+OktaV2_CL,6
+CrowdStrikeDetections,29
+GCPAuditLogs,13
+CommonSecurityLog,149
+SEG_MailGuard_CL,4
+SecurityAlert,13
+Watchlist,4
+SecurityEvent,1

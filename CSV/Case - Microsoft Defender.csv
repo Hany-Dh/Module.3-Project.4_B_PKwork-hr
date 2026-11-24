@@ -1,0 +1,78 @@
+﻿Inspect record;Inspect record;Inspect record
+;;
+Assets;Assets;Assets
+;;
+win11a;it-ws01;win11b
+None;None;None
+Low;Low;Low
+;;
+mirage;jliu;ceo
+;;
+mirage@pkwork.onmicrosoft.com;jliu@pkwork.onmicrosoft.com;ceo@pkwork.onmicrosoft.com
+mirage@pkwork.onmicrosoft.com;jliu@pkwork.onmicrosoft.com;ceo@pkwork.onmicrosoft.com
+All details;All details;All details
+TimeGenerated;TimeGenerated;TimeGenerated
+2026-08-18T19:55:11.0505332Z;2026-08-18T19:55:11.0505332Z;2026-08-18T19:55:11.0505332Z
+Name;Name;Name
+Malicious PowerShell Execution;Malicious PowerShell Execution;Malicious PowerShell Execution
+Description;Description;Description
+Suspicious PowerShell command execution detected;Suspicious PowerShell command execution detected;Suspicious PowerShell command execution detected
+SeverityName;SeverityName;SeverityName
+Critical;Critical;Critical
+Tactic;Tactic;Tactic
+Execution;Execution;Execution
+Technique;Technique;Technique
+Command and Scripting Interpreter;Command and Scripting Interpreter;Command and Scripting Interpreter
+UserName;UserName;UserName
+mirage;jliu;ceo
+SourceAccountUpn;SourceAccountUpn;SourceAccountUpn
+mirage@pkwork.onmicrosoft.com;jliu@pkwork.onmicrosoft.com;ceo@pkwork.onmicrosoft.com
+Filename;Filename;Filename
+report.exe;report.exe;report.exe
+Filepath;Filepath;Filepath
+C:\Users\mirage\Downloads\report.exe;C:\Users\jliu\Downloads\report.exe;C:\Users\ceo\Downloads\report.exe
+Sha256;Sha256;Sha256
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855;e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855;e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Md5;Md5;Md5
+d41d8cd98f00b204e9800998ecf8427e;d41d8cd98f00b204e9800998ecf8427e;d41d8cd98f00b204e9800998ecf8427e
+Cmdline;Cmdline;Cmdline
+C:\Users\mirage\Downloads\report.exe;C:\Users\jliu\Downloads\report.exe;C:\Users\ceo\Downloads\report.exe
+Device;Device;Device
+os_version;os_version;os_version
+Windows 10 Pro;Windows 10 Pro;Windows 10 Pro
+mac_address;mac_address;mac_address
+00:50:56:A1:01:01;00:50:56:A1:01:04;00:50:56:A1:01:02
+local_ip;local_ip;local_ip
+10.0.1.50;10.0.1.53;10.0.1.51
+platform_name;platform_name;platform_name
+Windows;Windows;Windows
+agent_version;agent_version;agent_version
+7.10.16303.0;7.10.16303.0;7.10.16303.0
+hostname;hostname;hostname
+win11a;it-ws01;win11b
+device_id;device_id;device_id
+cs-aid-win11a-0001;cs-aid-itws01-0005;cs-aid-win11b-0002
+external_ip;external_ip;external_ip
+159.31.1.217;162.110.174.216;99.22.116.50
+AccountUpn;AccountUpn;AccountUpn
+mirage@pkwork.onmicrosoft.com;jliu@pkwork.onmicrosoft.com;ceo@pkwork.onmicrosoft.com
+DeviceName;DeviceName;DeviceName
+win11a;it-ws01;win11b
+SHA2561;SHA2561;SHA2561
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855;e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855;e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileName1;FileName1;FileName1
+report.exe;report.exe;report.exe
+ProcessCommandLine;ProcessCommandLine;ProcessCommandLine
+C:\Users\mirage\Downloads\report.exe;C:\Users\jliu\Downloads\report.exe;C:\Users\ceo\Downloads\report.exe
+RemoteIP;RemoteIP;RemoteIP
+159.31.1.217;162.110.174.216;99.22.116.50
+ReportId;ReportId;ReportId
+1194e2ad3d1cc4f68a67040fdc54252851f417bf5e0c808b5a430e;205ffdca48e063fd2999630ddc3761c76168382f248452f757492dc3d96728b2;816f81f14af68b35d1a4da9eba47c3d57430cc78be90c70def11b0fadd0
+;e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855;
+;;
+;;
+;;
+Correlation reasons;Correlation reasons;Correlation reasons
+Same user credentials;Same user credentials;Same user credentials
+mirage@pkwork.onmicrosoft.com;jliu@pkwork.onmicrosoft.com;ceo@pkwork.onmicrosoft.com
+13 alerts;1 alerts;1 alerts

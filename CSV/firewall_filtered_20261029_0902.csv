@@ -1,0 +1,2 @@
+﻿ID,Time,Device,Outcome,Phase,Direction,Application,DestinationIP,DestinationPort,DestinationZone,Rule,URLCategory,ReceivedBytes,SentBytes,EventCount,Severity,InboundInterface,OutboundInterface,Threat
+102,12:52:12,PA-3260-DC-01,Alerted,Outbound C2/DNS,outbound,ssl,192.0.2.100,443,untrust,Block-Malicious,command-and-control,38569,2016,2,5,ethernet1/3,ethernet1/6,C2.Beacon.DNS

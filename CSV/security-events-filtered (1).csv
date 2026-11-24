@@ -1,0 +1,2 @@
+TimeGenerated,StartTime,DeviceName,DeviceAction,SimplifiedDeviceAction,Activity,LogSeverity,DestinationIP,DestinationPort,SourceIP,SourceUserName,EventCount,ReceivedBytes,SentBytes,Protocol,ApplicationProtocol,Reason,CommunicationDirection,DeviceEventClassID
+"Oct 28, 2026 8:13:46 AM","Oct 2, 2026 12:52:12 PM","PA-3260-DC-01","alert","Alerted","spyware","5","192.0.2.100","443","10.0.1.50","mirage@pkwork.onmicrosoft.com","2","38569","2016","TCP","ssl","","outbound","THREAT"
